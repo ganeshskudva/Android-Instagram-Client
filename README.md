@@ -4,7 +4,7 @@
 Time Spent: 15hrs
 
 ###Walkthrough
-![My image](ganeshskudva.github.com/Android-Instagram-Client/InstagramClient.gif)
+![Instagram Client](InstagramClient.gif)
 
 ###**Features:**
 
